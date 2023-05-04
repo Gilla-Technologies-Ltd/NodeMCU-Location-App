@@ -1,0 +1,9 @@
+{
+  "parser": "babel-eslint",
+  "extends": "standard",
+  "plugins": ["import", "node", "promise"],
+  "rules": {
+    "no-unused-vars": "warn",
+    "no-console": "off"
+  }
+}

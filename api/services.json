@@ -1,0 +1,70 @@
+{
+  "services": [
+    {
+      "name": "Bright Future Support Centre",
+      "address": "32 Sunrise Avenue",
+      "postcode": "NW5 2AB",
+      "phone": "020 1234 5678",
+      "hours": "Monday-Friday: 10am-6pm",
+      "map_url": "https://goo.gl/maps/example",
+      "website": "https://www.brightfuturesupportcentre.org/",
+      "description": "Bright Future Support Centre provides resources and assistance to individuals experiencing homelessness or at risk of becoming homeless. Services include housing advice, employment support, food provision, and access to educational programs. Open to all ages and backgrounds, the centre aims to foster a supportive community.",
+      "facilities": "Accommodation/housing advice, Employment support, Food provision, Educational programs, Outreach services, Mental health support"
+    },
+    {
+      "name": "Harmony Homeless Hub",
+      "address": "74 Greenway Road",
+      "postcode": "SE10 8DF",
+      "phone": "020 9876 5432",
+      "hours": "Monday-Sunday: 8am-8pm",
+      "map_url": "https://goo.gl/maps/example2",
+      "website": "https://www.harmonyhomelesshub.org/",
+      "description": "Harmony Homeless Hub offers comprehensive support for individuals and families affected by homelessness. Services include hot meals, shower facilities, laundry, clothing donations, health services, and a range of workshops and activities designed to promote personal growth and development. The hub also provides assistance in finding housing and navigating the benefits system.",
+      "facilities": "Food, Bathroom/showers, Laundry, Clothing donations, Health services, Workshops, Activities"
+    },
+    {
+      "name": "New Beginnings Outreach",
+      "address": "191 Hope Street",
+      "postcode": "SW1 3RT",
+      "phone": "020 4321 6789",
+      "hours": "Monday-Friday: 9am-5pm",
+      "map_url": "https://goo.gl/maps/example3",
+      "website": "https://www.newbeginningsoutreach.org/",
+      "description": "New Beginnings Outreach offers support and guidance to individuals experiencing homelessness or at risk of homelessness. Services include housing assistance, job training, financial education, and personal development workshops. The organization is dedicated to helping people overcome obstacles and create sustainable futures.",
+      "facilities": "Housing assistance, Job training, Financial education, Personal development workshops, Benefits support, Community programs"
+    },
+    {
+      "name": "Pathways to Progress",
+      "address": "677 Compassionate Lane",
+      "postcode": "E1 9XY",
+      "phone": "020 3456 7890",
+      "hours": "Monday-Saturday: 10am-8pm",
+      "map_url": "https://goo.gl/maps/example4",
+      "website": "https://www.pathwaystoprogress.org/",
+      "description": "Pathways to Progress is a community-focused organization that provides resources and support for people facing homelessness. Services include emergency shelter, transitional housing, job placement, and life skills training. The organization strives to empower individuals to become self-sufficient and break the cycle of homelessness.",
+      "facilities": "Emergency shelter, Transitional housing, Job placement, Life skills training, Mentoring, Advocacy"
+    },
+    {
+      "name": "Sheltering Hearts",
+      "address": "12 Unity Place",
+      "postcode": "EC2 4MN",
+      "phone": "020 6789 0123",
+      "hours": "Monday-Sunday: 7am-10pm",
+      "map_url": "https://goo.gl/maps/example5",
+      "website": "https://www.shelteringhearts.org/",
+      "description": "Sheltering Hearts is a nonprofit organization committed to providing a safe and supportive environment for people experiencing homelessness. Services include emergency shelter, case management, mental health counseling, and access to medical care. The organization also offers specialized programs for youth and families.",
+      "facilities": "Emergency shelter, Case management, Mental health counseling, Medical care, Youth programs, Family support"
+    },
+    {
+      "name": "Hope Springs Community Center",
+      "address": "25 Resilience Way",
+      "postcode": "W1 6YX",
+      "phone": "020 7890 1234",
+      "hours": "Monday-Friday: 8am-6pm",
+      "map_url": "https://goo.gl/maps/example6",
+      "website": "https://www.hopespringscommunitycenter.org/",
+      "description": "Hope Springs Community Center is a multipurpose facility offering resources and services for people affected by homelessness. The center provides hot meals, shower facilities, laundry, and access to computers and the internet. Additionally, the center hosts workshops, training programs, and support groups to promote personal growth and self-sufficiency.",
+      "facilities": "Hot meals, Shower facilities, Laundry, Computer access, Workshops, Training programs, Support groups"
+    }
+  ]
+}

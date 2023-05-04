@@ -1,0 +1,11 @@
+{
+  "name": "NodeMCU_Location_App",
+  "displayName": "NodeMCU_Location_App",
+  "extra": {
+    "eas": {
+      "projectId": "250475c5-44ee-4ff5-9c3c-fb8f171452d7"
+    }
+  },
+  "owner": "j-gilla",
+  "slug": "nodemcudemo"
+}
